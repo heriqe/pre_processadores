@@ -4,6 +4,15 @@
   box-sizing: border-box;
 }
 
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #1c65d3;
+  font-family: Arial, sans-serif;
+}
+
 
 form input, #entrar {
   opacity: 0; /* Começa invisível */
