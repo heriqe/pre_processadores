@@ -13,8 +13,14 @@ body {
   font-family: Arial, sans-serif;
 }
 
-
 form input, #entrar {
   opacity: 0; /* Começa invisível */
   transform: translateY(50px); /* Deslocado para baixo */
+}
+
+.form-container {
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
