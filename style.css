@@ -1,0 +1,4 @@
+form input, #entrar {
+  opacity: 0; /* Começa invisível */
+  transform: translateY(50px); /* Deslocado para baixo */
+}
